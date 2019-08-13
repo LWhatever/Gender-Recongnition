@@ -26,3 +26,10 @@
 ### 其他文件说明：
 - save文件夹下的文件为python生成的分类器模型, 被test.py调用
 - Gama文件夹下保存了GFCC的特征提取、分类模型
+- special thanks to [RASTA-PLP](https://labrosa.ee.columbia.edu/matlab/rastamat/)
+    @misc{Ellis05-rastamat,
+          Author = {Daniel P. W. Ellis},
+          Year = {2005},
+          Title = {{PLP} and {RASTA} (and {MFCC}, and inversion) in {M}atlab},
+          Url = {http://www.ee.columbia.edu/~dpwe/resources/matlab/rastamat/},
+          Note = {online web resource}}
