@@ -5,7 +5,7 @@
 - 将主目录下Gama文件夹添加到MATLAB路径
 - 需要MATLAB2018b或者MATLAB Runtime9.4
 
-## HOW TO USE
+## 使用方法
 - 环境建立后，双击运行*Gender_Recognition.mlapp*
 - 或者在MATLAB中打开运行
 
